@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Gordon.👋
+### Pronouns: He/Him
+### Location: California
 
 <!--
 **GordonZhen/GordonZhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
